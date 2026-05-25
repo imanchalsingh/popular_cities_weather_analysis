@@ -25,4 +25,11 @@ A data analysis project focused on exploring weather patterns across popular cit
 - Explored seasonal weather patterns
 - Visualized climate differences using charts
 
+## Report
+
+This project is created only for educational and analytical purposes.  
+All analysis, visualizations, and insights are independently performed using publicly available datasets and tools.  
+
+Plagiarism is strictly prohibited.  
+
 ### Anchal Singh - Developer & Analyst
